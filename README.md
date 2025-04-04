@@ -1,2 +1,2 @@
 # Marker-Proyect
-Repositorio donde se actualizaran los avances del proyecto de procesado de imagenes del sw Marker
+Proyecto del Marker de procesamiento de imagenes de prensa historica a traves del software Marker.
